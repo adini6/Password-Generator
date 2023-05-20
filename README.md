@@ -8,8 +8,18 @@ Follow the deployment link to the use the password generator  application
 Click the red "generate password" button and follow prompts 
 
 ##Password Generator Application
-![image](https://github.com/adini6/Password-Generator/assets/28551058/b28a8503-0271-4ed1-83a6-5cedf4106cd9)
+https://adini6.github.io/Password-Generator/
+
+![image](https://github.com/adini6/Password-Generator/assets/28551058/96909966-1585-4e96-96ea-903935eda7b6)
+![image](https://github.com/adini6/Password-Generator/assets/28551058/a16b27b7-71c7-4bab-8d4f-c27818fd0cfa)
+![image](https://github.com/adini6/Password-Generator/assets/28551058/261b7548-898b-46c8-be02-40078413ec23)
+
 
 ##Credits
 Written by Abdikalik Dini with starter Code cloned from  https://github.com/coding-boot-camp/friendly-parakeet.git
+
+
+
+
+
 
